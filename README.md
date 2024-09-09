@@ -22,7 +22,11 @@ Manejo de funciones python
 - ![image](https://github.com/user-attachments/assets/bf81481c-2b0f-4ba3-a7a4-159ed2c93f32)
 ## Funciones (Diccionario)
 - codigo
-- 
+- ![image](https://github.com/user-attachments/assets/cd779512-b8a4-4efa-abde-5718795d22f0)
+- resultado
+- ![image](https://github.com/user-attachments/assets/eddae41d-92f0-4f06-8a76-5cdcc04d16ca)
+
+
 
 
 
